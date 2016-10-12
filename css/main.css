@@ -8,6 +8,10 @@ h1 {
 
 }
 
+body header h1 i {
+  color: #8f2440;
+}
+
 nav a {
   color: #8f2440;
 }
