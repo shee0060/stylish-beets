@@ -2,18 +2,14 @@ html {
   background-color: #c9b5ab;
 }
 
-
 h1 {
   color: #3f1622;
-
-}
-
-body header h1 i {
-  color: #8f2440;
+  font-family: 'PT Sans', sans-serif;
 }
 
 nav a {
   color: #8f2440;
+  font-family: 'PT Sans', sans-serif;
 }
 
 
