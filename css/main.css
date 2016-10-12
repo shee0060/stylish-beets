@@ -7,6 +7,7 @@ h1 {
   font-family: 'PT Sans', sans-serif;
   font-weight: normal;
   line-height: 1.5;
+  rem: 1.5; 
 }
 
 nav a {
