@@ -5,7 +5,7 @@ html {
 
 h1 {
   color: #3f1622;
-  font-family: 'PT Sans', sans-serif;
+  font-family: "PT Sans", sans-serif;
   font-weight: bolder;
   line-height: 1.5;
   font-size: 1.5rem;
@@ -13,7 +13,7 @@ h1 {
 
 a {
   color: #8f2440;
-  font-family: 'PT Sans', sans-serif;
+  font-family: "PT Sans", sans-serif;
   font-weight: bolder;
   line-height: 1.5;
   font-size: 1.125rem;
@@ -27,7 +27,7 @@ a:hover {
 }
 
 main {
-  font-family: 'PT Serif', serif;
+  font-family: "PT Serif", serif;
   font-weight: normal;
 }
 
@@ -55,7 +55,7 @@ img {
 }
 
 h2 {
-  font-family: 'PT Sans', sans-serif;
+  font-family: "PT Sans", sans-serif;
   font-weight: bolder;
 }
 
