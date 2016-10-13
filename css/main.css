@@ -47,6 +47,10 @@ h2 {
   font-weight: bolder;
 }
 
+ul li {
+  font-size: 0.8;
+}
+
 footer {
-  font-size: 0.8rem; 
+  font-size: 0.8rem;
 }
