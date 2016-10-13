@@ -47,6 +47,10 @@ h2 {
   font-weight: bolder;
 }
 
+dt {
+  font-weight: bold;
+}
+
 main aside ul li {
   font-size: 0.8rem;
 }
