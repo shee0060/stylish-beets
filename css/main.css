@@ -49,6 +49,10 @@ img {
   font-size: 1.5rem;
 }
 
+.d {
+  font-style: italic;
+}
+
 h2 {
   font-family: 'PT Sans', sans-serif;
   font-weight: bolder;
