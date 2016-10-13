@@ -11,13 +11,17 @@ h1 {
   font-size: 1.5rem;
 }
 
-nav a {
+a {
   color: #8f2440;
   font-family: 'PT Sans', sans-serif;
   font-weight: bolder;
   line-height: 1.5;
   font-size: 1.125rem;
   list-style-type: none;
+}
+
+a:hover {
+  color: #222;
 }
 
 main {
