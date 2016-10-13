@@ -62,11 +62,11 @@ dt {
   font-weight: bold;
 }
 
-main ol li {
+body main ol li {
   list-style-type: lower-alpha;
 }
 
-main aside ul li {
+body main aside ul li {
   font-size: 0.8rem;
 }
 
