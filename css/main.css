@@ -46,3 +46,7 @@ h2 {
   font-family: 'PT Sans', sans-serif;
   font-weight: bolder;
 }
+
+footer {
+  font-size: 0.8rem; 
+}
