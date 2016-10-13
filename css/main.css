@@ -17,6 +17,7 @@ nav a {
   font-weight: bolder;
   line-height: 1.5;
   font-size: 1.125rem;
+  list-style-type: none;
 }
 
 main {
