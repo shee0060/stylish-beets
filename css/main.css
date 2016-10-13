@@ -18,6 +18,10 @@ nav a {
   font-size: 1.125rem;
 }
 
+main {
+  font-family: 'PT Serif', serif;
+}
+
 img {
   width: 100%;
 }
@@ -26,6 +30,8 @@ img {
   font-style: italic;
   line-height: 1.5;
 }
+
+
 
 
 
